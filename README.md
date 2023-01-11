@@ -1,4 +1,9 @@
-# Game Blob (GB) Docs
+# [Game Blob (GB) Docs](https://github.com/chris56974/gbdocs)
+
+- [Landing page github](https://github.com/chris56974/gbdocs-landing)
+- [Website github](https://github.com/chris56974/gbdocs-web)
+
+## Main Idea
 
 Google Keep for game developers except the notes are connected to each other using a tree/graph datastructure, where each note represents a level in a game.
 
