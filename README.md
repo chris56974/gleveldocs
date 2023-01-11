@@ -5,42 +5,16 @@
 
 ## Main Idea
 
-Google Keep for game developers except the notes are connected to each other using a tree/graph datastructure, where each note represents a level in a game.
+Google Keep but for game devs. The "notes" connect up to each other like levels in a level design (using a tree datastructure). 
 
-The objective is to make your notes feel more like a game environment so that they're more fun for game developers.
+The objective is to make your notes feel more like the game you're building so that it's more immersive and fun for the game developer.
 
-It will also give them a better feel for what their game is like since I intend to play their music and concept art at relevant places
+I intend to use their own concept art and music depending on where they're currently taking notes and stuff like that.
 
-And to show their related concept art at each note.
+## Impetus
 
-Bring the game environment to the developer's notes themselves.
+I was watching someone build a game on twitch.tv and noticed that they were using msft word to jot down notes for their game. 
+It gets the job done, but I thought it was a very hollow and bland application for taking notes in (especially considering the medium).
+So I sought out to make an application that was much more animated, immersive and entertaining to use!
 
-## Premise
-
-This guy was editing a word document for his video game, and he had a header for each zone in his game.
-
-## Opportunity
-
-He had to keep scrolling up and down to move between different zones in his game. 
-
-I think it would be more interesting if you could make it look more like a level design for a video game. 
-
-I was thinking of creating a document editor, where you could create a bunch of blobs and then click on them
-
-and they would blow up and have word processing stuff.
-
-## Tech 
-
-Tauri app in React.
-
-Website hosting the app can be in Vue.
-
-I'm thinking of using data structures knowledge by making each.
-
-## Ideas
-
-It would play the music you made for each part of the level when you're in that part of your docs
-
-Desktop in React
-Website equivalent in Angular
-Landing page in Vue
+## MIT License
